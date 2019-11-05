@@ -10,7 +10,8 @@ puede ver el programa. Este curso es una continuación del curso `IntRo`
 que se puede consultar en este
 [link](https://github.com/Nicolas-Schmidt/IntRo/). Este curso tambien
 cuenta con un paquete para que los estudiantes puedan realizar los
-ejercicios del mismo. El paquete se llama: `mediaR`
+ejercicios del mismo. El paquete se llama: `mediaR`. Es un curso
+intermedio entre uno introductorio y uno avanzadao o experto.
 
 Las **presentaciones** del curso están
 [aquí](https://github.com/Nicolas-Schmidt/mediaR/tree/master/man/Presentaciones).<br />
