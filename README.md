@@ -5,7 +5,7 @@
 
 Este es un curso que se dicta en la Facultad de Ciencias Sociales de la
 Universidad de la República (Montevideo, Uruguay). En este
-[link](https://github.com/Nicolas-Schmidt/IntRo/blob/master/man/Ejercicios/Programa_IntRo.pdf)
+[link](https://github.com/Nicolas-Schmidt/mediaR/blob/master/man/Ejercicios/Programas_mediaR.pdf)
 puede ver el programa. Este curso es una continuación del curso `IntRo`
 que se puede consultar en este
 [link](https://github.com/Nicolas-Schmidt/IntRo/). Este curso tambien
@@ -13,9 +13,9 @@ cuenta con un paquete para que los estudiantes puedan realizar los
 ejercicios del mismo. El paquete se llama: `mediaR`
 
 Las **presentaciones** del curso están
-[aquí](https://github.com/Nicolas-Schmidt/IntRo/tree/master/man/Presentaciones).<br />
+[aquí](https://github.com/Nicolas-Schmidt/mediaR/tree/master/man/Presentaciones).<br />
 Ejercicios
-[aquí](https://github.com/Nicolas-Schmidt/IntRo/tree/master/man/Presentaciones/codigo)
+[aquí](https://github.com/Nicolas-Schmidt/mediaR/tree/master/man/Presentaciones/codigo)
 
 #### *_Docente_*
 
