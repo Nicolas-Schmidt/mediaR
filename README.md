@@ -15,8 +15,10 @@ intermedio entre uno introductorio y uno avanzadao o experto.
 
 Las **presentaciones** del curso están
 [aquí](https://github.com/Nicolas-Schmidt/mediaR/tree/master/man/Presentaciones).<br />
-Ejercicios
-[aquí](https://github.com/Nicolas-Schmidt/mediaR/tree/master/man/Presentaciones/codigo)
+Los **Ejercicios** del curso están
+[aquí](https://github.com/Nicolas-Schmidt/mediaR/tree/master/man/Ejercicios).<br />
+Los **conjuntos de datos** del curso están
+[aquí](https://github.com/Nicolas-Schmidt/mediaR/tree/master/man/Datos)
 
 #### *_Docente_*
 

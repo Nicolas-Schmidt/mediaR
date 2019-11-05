@@ -20,7 +20,8 @@ Universidad de la República (Montevideo, Uruguay). En este [link](https://githu
 
 
 Las __presentaciones__ del curso están [aquí](https://github.com/Nicolas-Schmidt/mediaR/tree/master/man/Presentaciones).<br />
-Ejercicios [aquí](https://github.com/Nicolas-Schmidt/mediaR/tree/master/man/Presentaciones/codigo)
+Los __Ejercicios__ del curso están [aquí](https://github.com/Nicolas-Schmidt/mediaR/tree/master/man/Ejercicios).<br />
+Los __conjuntos de datos__ del curso están [aquí](https://github.com/Nicolas-Schmidt/mediaR/tree/master/man/Datos)
 
 
 #### *_Docente_*
