@@ -1,0 +1,14 @@
+## MUNICIPIOS MONTEVIDEO ##
+
+A  <- c('BSA','BSB','BTA','BTB','BTC','BUA','BUB','BVA','BVB','BVC','BXA','BXB')
+B  <- c('AAA','ACA','AIA','AKA','AMA','APA','ARA','ASA','ATA','AVA','AVB','BEA',
+        'BFA','BJB','BKB','AAB','ABA','ABB','ACB','ADA','ADB','AEA','AEB','AFA','AFB',
+        'AGA','AGB','AHA','AHB','AIB','AJA','AJB','AKB','ALA','ALB','AMB','ANA','ANB',
+        'AOA','AOB','APB','AQA','AQB','ARB','ASB','BEB','BFB')
+C  <- c('BGA','BIA','BJA','BKA','BLA','BLB','BMA','BMB','BNA','BPA','BPB','BQA',
+        'BQB','BGB','BHA','BIB','BHB')
+CH <- c('ATB','AUA','AUB','AXA','AXB','AZA','AZB','BAA','BAB')
+D  <- c('BBA','BBB','BDD','BNB','BNC','BOA','BOB')
+E  <- c('BCA','BCB','BCC','BCD','BCE','BCF')
+F  <- c('BDA','BDB','BDC','BDE')
+G  <- c('BRA','BRB','BRC','BZA','BZB','BZC')
