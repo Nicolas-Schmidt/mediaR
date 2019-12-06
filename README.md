@@ -20,7 +20,7 @@ Los **Ejercicios** del curso están
 Los **conjuntos de datos** del curso están
 [aquí](https://github.com/Nicolas-Schmidt/mediaR/tree/master/man/Datos).<br />
 La pauta de la entrega final está
-[aquí](https://github.com/Nicolas-Schmidt/mediaR/tree/master/man/Datos)
+[aquí](https://github.com/Nicolas-Schmidt/mediaR/blob/master/man/Ejercicios/Entrega_final_mediaR.pdf)
 
 #### *_Docente_*
 
