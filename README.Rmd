@@ -21,8 +21,8 @@ Universidad de la República (Montevideo, Uruguay). En este [link](https://githu
 
 Las __presentaciones__ del curso están [aquí](https://github.com/Nicolas-Schmidt/mediaR/tree/master/man/Presentaciones).<br />
 Los __Ejercicios__ del curso están [aquí](https://github.com/Nicolas-Schmidt/mediaR/tree/master/man/Ejercicios).<br />
-Los __conjuntos de datos__ del curso están [aquí](https://github.com/Nicolas-Schmidt/mediaR/tree/master/man/Datos)
-
+Los __conjuntos de datos__ del curso están [aquí](https://github.com/Nicolas-Schmidt/mediaR/tree/master/man/Datos).<br />
+La pauta de la entrega final está [aquí](https://github.com/Nicolas-Schmidt/mediaR/tree/master/man/Datos)
 
 #### *_Docente_*
 Nicolás Schmidt. Mail: <nschmidt@cienciassociales.edu.uy>

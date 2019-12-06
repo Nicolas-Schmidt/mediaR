@@ -18,6 +18,8 @@ Las **presentaciones** del curso están
 Los **Ejercicios** del curso están
 [aquí](https://github.com/Nicolas-Schmidt/mediaR/tree/master/man/Ejercicios).<br />
 Los **conjuntos de datos** del curso están
+[aquí](https://github.com/Nicolas-Schmidt/mediaR/tree/master/man/Datos).<br />
+La pauta de la entrega final está
 [aquí](https://github.com/Nicolas-Schmidt/mediaR/tree/master/man/Datos)
 
 #### *_Docente_*
